@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'client' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'root' ); // Тестовий коментар
 
 /** Database password */
 define( 'DB_PASSWORD', '' );
