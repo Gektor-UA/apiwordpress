@@ -26,7 +26,7 @@ define( 'DB_NAME', 'client' );
 define( 'DB_USER', 'root' ); // Тестовий коментар
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '' ); // Ще 1 комент
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
